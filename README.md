@@ -2,6 +2,6 @@
 
 Files to separate a pdf file in all pages for ubuntu
 
-###NEED NUMPY AND PyPDF2###
+###NEED NUMPY PyPDF2 and pdftk###
 
 Run the file and follow instructions
